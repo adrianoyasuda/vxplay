@@ -1,0 +1,1 @@
+var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/www.tvappino.online\/wp-content\/themes\/fortuna","boc_woo_lightbox_enabled":"1","header_height":"52","sticky_header":"1","submenu_arrow_effect":"0","mm_bordered_columns":"1","transparent_header":"1","fixed_footer":"0","boc_submenu_animation_effect":"sub_fade_in"};

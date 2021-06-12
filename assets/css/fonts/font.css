@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Havelock Titling';
+    src: url('HavelockTitling-Black.woff2') format('woff2'),
+        url('HavelockTitling-Black.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Havelock Titling';
+    src: url('HavelockTitling-Regular.woff2') format('woff2'),
+        url('HavelockTitling-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Havelock Titling';
+    src: url('HavelockTitling-Bold.woff2') format('woff2'),
+        url('HavelockTitling-Bold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Havelock Titling';
+    src: url('HavelockTitling-Light.woff2') format('woff2'),
+        url('HavelockTitling-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Havelock Titling';
+    src: url('HavelockTitling-Medium.woff2') format('woff2'),
+        url('HavelockTitling-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

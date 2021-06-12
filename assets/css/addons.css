@@ -1,0 +1,221 @@
+.envato-block__preview{overflow: visible !important;}
+
+.envato-block__preview{overflow: visible;}
+
+.envato-kit-140-material-hit .menu-item a,
+.envato-kit-140-material-button .elementor-button{
+    background-position: center;
+    transition: background 0.8s;
+}
+.envato-kit-140-material-hit .menu-item a:hover,
+.envato-kit-140-material-button .elementor-button:hover{
+    background: radial-gradient(circle, transparent 1%, #fff 1%) center/15000%;
+}
+.envato-kit-140-material-hit .menu-item a:active,
+.envato-kit-140-material-button .elementor-button:active{
+    background-color: #FFF;
+    background-size: 100%;
+    transition: background 0s;
+}
+
+.envato-kit-140-big-shadow-form .elementor-field-textual{
+    box-shadow: 0 20px 30px rgba(0,0,0, .05);
+}
+
+.envato-kit-140-faq .elementor-accordion .elementor-accordion-item{
+    border-width: 0 0 1px !important;
+}
+
+.envato-kit-140-scrollable{
+    height: 100%;
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+.envato-kit-140-imagebox-nospace:hover{
+    transform: scale(1.1);
+    transition: all 0.3s;
+}
+.envato-kit-140-imagebox-nospace figure{
+    line-height: 0;
+}
+
+.envato-kit-140-slide .elementor-slide-content{
+    background: #FFF;
+    margin-left: -60px;
+    padding: 1em;
+}
+.envato-kit-140-carousel .slick-active:not(.slick-current)  img{
+    padding: 20px !important;
+    transition: all .9s;
+}
+.envato-block__preview{overflow: visible;}
+
+.envato-block__preview{overflow: visible;}
+
+.elementor-headline-animation-type-drop-in .elementor-headline-dynamic-wrapper{
+    text-align: center;
+}
+.envato-kit-141-top-0 h1,
+.envato-kit-141-top-0 h2,
+.envato-kit-141-top-0 h3,
+.envato-kit-141-top-0 h4,
+.envato-kit-141-top-0 h5,
+.envato-kit-141-top-0 h6,
+.envato-kit-141-top-0 p {
+    margin-top: 0;
+}
+.envato-kit-141-newsletter-inline .elementor-field-textual.elementor-size-md {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.envato-kit-141-bottom-0 p {
+    margin-bottom: 0;
+}
+
+.envato-kit-141-bottom-8 .elementor-price-list .elementor-price-list-item .elementor-price-list-header {
+    margin-bottom: .5rem;
+}
+
+.envato-kit-141.elementor-widget-testimonial-carousel.elementor-pagination-type-bullets .swiper-container {
+    padding-bottom: 52px;
+}
+
+.envato-kit-141-display-inline {
+    display: inline-block;
+}
+.envato-kit-141 .elementor-slick-slider ul.slick-dots {
+    bottom: -40px;
+}
+
+#whatsapp-container {
+    z-index: 99;
+    bottom: 50px;
+    right: 50px;
+    position: fixed;
+}
+
+#whatsapp-container:hover {
+    color: white;
+    filter: brightness(70%);
+}
+#whatsapp-container i {
+    color: #fefefe;
+    background-color: #8176FF;
+    font-size: 45px;
+    padding: 20px;
+    border-radius: 100%;
+    transition: all 0.3s ease;
+}
+
+@media only screen and (max-width:1200px) {
+    #whatsapp-container i{
+        font-size: 28px;
+        padding: 13px;
+    }
+
+    #whatsapp-container {
+        bottom: 18px;
+        right: 18px;
+        position: fixed;
+    }
+}
+
+.vx-font{
+    font-family: "Havelock Titling";
+    font-weight: 400;
+}
+
+#myBtn:hover{
+    cursor: pointer;
+}
+
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    -webkit-animation-name: fadeIn; /* Fade in the background */
+    -webkit-animation-duration: 0.4s;
+    animation-name: fadeIn;
+    animation-duration: 0.4s
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #151518;
+    margin: 5% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #887DFF;
+    border-radius: 1rem;
+    width: 30%; /* Could be more or less, depending on screen size */
+    -webkit-animation-name: slideIn;
+    -webkit-animation-duration: 0.4s;
+    animation-name: slideIn;
+    animation-duration: 0.4s
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #887DFF;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.new-input input{
+    font-family: "Work Sans", Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: var( --e-global-color-11d43d0 );
+    background-color: var( --e-global-color-056eebd );
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: var( --e-global-color-335476e );
+    border-radius: 0px 0px 0px 0px;
+    padding: 12px !important;
+}
+
+.new-input button{
+    padding: 12px 32px 12px 32px;
+}
+
+.alig{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.color-icon{
+    font-size: 40px;
+    color: #5A53B2;
+}
+
+#contador{
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    padding: 0 0 150px 0;
+    margin-top: -90px;
+}
+
+@media only screen and (max-width:962px){
+    #contador{
+        margin-top: 10px;
+        padding: 0 0 70px 0;
+    }
+    #media-icons{
+        justify-content: center;
+    }
+}
